@@ -2,7 +2,7 @@
 - 👀 I’m interested in javaScript
 - 🌱 I’m currently learning phyton, javascript, react
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me joao.cabelo.2008@gmail.com
+- 📫 How to reach me joaovictortorrespereira30@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im not funny
 
